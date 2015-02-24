@@ -9,3 +9,10 @@ of the desired datasets, in a university context.
 
 
 [1]: http://www.codeforamerica.org/governments/principles/open-data/
+
+
+## Datasets
+
+* course list
+* timetabling information
+
